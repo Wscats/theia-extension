@@ -10,6 +10,7 @@
     "@theia/messages": "latest",
     "@theia/monaco": "latest",
     "@theia/navigator": "latest",
+    "@theia/plugin": "^1.25.0",
     "@theia/preferences": "latest",
     "@theia/process": "latest",
     "@theia/terminal": "latest",

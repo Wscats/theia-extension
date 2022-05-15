@@ -1443,6 +1443,11 @@
     bent "^7.1.0"
     semver "^5.4.1"
 
+"@theia/plugin@^1.25.0":
+  version "1.25.0"
+  resolved "https://registry.yarnpkg.com/@theia/plugin/-/plugin-1.25.0.tgz#73ab183cbe28fc5577548975d687f108f6da6731"
+  integrity sha512-OSiw58/3KNgYd9JJaZZGXsWhKVHTZbhU6t/uGVhEAQ0Dv/jQqd6NbrCwYSUJCcgGxjbRlr1sreku8wQ87EPNng==
+
 "@theia/preferences@latest":
   version "1.25.0"
   resolved "https://registry.yarnpkg.com/@theia/preferences/-/preferences-1.25.0.tgz#1444497cedea1e4ab63128e52b0b83f52a4aa326"
