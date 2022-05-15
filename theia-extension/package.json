@@ -9,7 +9,8 @@
     "src"
   ],
   "dependencies": {
-    "@theia/core": "latest"
+    "@theia/core": "latest",
+    "@theia/plugin": "^1.25.0"
   },
   "devDependencies": {
     "rimraf": "latest",
@@ -23,7 +24,8 @@
   },
   "theiaExtensions": [
     {
-      "frontend": "lib/browser/theia-extension-frontend-module"
+      "frontend": "lib/browser/theia-extension-frontend-module",
+      "backend": "lib/browser/theia-plugin-backend-module"
     }
   ]
 }
